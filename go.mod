@@ -20,7 +20,7 @@ require (
 	github.com/go-kit/kit v0.9.0
 	github.com/gogo/protobuf v1.3.0
 	github.com/gorilla/mux v1.7.3
-	github.com/graph-gophers/graphql-go v0.0.0-20200207002730-8334863f2c8b // indirect
+	github.com/graph-gophers/graphql-go v1.3.0 // indirect
 	github.com/hashicorp/golang-lru v0.5.3
 	github.com/huin/goupnp v1.0.0 // indirect
 	github.com/jackpal/go-nat-pmp v1.0.2 // indirect
